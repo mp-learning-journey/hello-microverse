@@ -1,0 +1,23 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "This is a week 1 day 2 project in microverse. it contains a webpage that displays 'Hello Microverse!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrprotocoll/hello-microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrprotocoll/hello-microverse/issues"
+  },
+  "homepage": "https://github.com/mrprotocoll/hello-microverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
